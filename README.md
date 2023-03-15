@@ -76,6 +76,11 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  
  <img src="https://github.com/CF72003/masteruah/blob/main/img/Foto.PNG?raw=true"/>
  
+ ## Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+ Para esto en la configuración de nuestro perfil
+ nos vamos a security and authenticacion y ahí 
+ lo configuramos.
+ 
  ## Añadir la clave public del pc
  En ssh and keys
  en la terminal de git 
