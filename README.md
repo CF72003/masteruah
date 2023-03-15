@@ -1,6 +1,7 @@
 # masteruah
 ## Crear un repositorio en vuestro GitHub llamado **masteruah**.
 
+<<<<<<< HEAD
 ##Clonar vuestro repositio en local.
 git clone https://github.com/CF72003/masteruah - Con este comando copiaremos el repositorio en nuestro equipo 
 
