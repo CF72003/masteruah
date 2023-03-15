@@ -95,3 +95,4 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  
  ls -  Comprobamos lo que hay dentro  y deberemos abrir con cat el .pub  y copiar la clave y pegarla en la página de github
  
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/key.PNG?raw=true"/>
