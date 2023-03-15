@@ -84,16 +84,14 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  <img src="https://github.com/CF72003/masteruah/blob/main/img/autenticacion.PNG?raw=true"/>
  
  ## Añadir la clave public del pc
- En ssh and keys
- en la terminal de git 
- cd ~/.ssh
- ls
- Para poner ese simbolo ALTGr + 4
- si no existe la creamos. 
- ssh-keygen
- le ponemos el nombre que queramos
- contraseñas en blanco
- Una vez creado ls
- y deberemos abrir con cat el .pub
- y copiar la clave y pegarla en la página de github
+ En ssh and keys podremos configurar esto
+ 
+ En la terminal de git  escribir "cd ~/.ssh" Para poner ese simbolo ALTGr + 4 - Con esto podremos movernos ala carpeta ssh
+ 
+ ls -  Comprobamos lo que hay dentro  si no existe la carpeta la creamos. 
+ 
+ ssh-keygen - generamos la key y le ponemos el nombre que queramos, las contraseñas en blanco
+ Una vez creado 
+ 
+ ls -  Comprobamos lo que hay dentro  y deberemos abrir con cat el .pub  y copiar la clave y pegarla en la página de github
  
