@@ -81,6 +81,8 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  nos vamos a security and authenticacion y ahí 
  lo configuramos.
  
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/autenticacion.PNG?raw=true"/>
+ 
  ## Añadir la clave public del pc
  En ssh and keys
  en la terminal de git 
