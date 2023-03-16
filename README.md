@@ -131,3 +131,11 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  En settings dentro del repositorio nos saldrá el apartado collaborators desde ahí podremos configurarlos.
  
  <img src="https://github.com/CF72003/masteruah/blob/main/img/colaborador.PNG?raw=true"/>
+
+ ##  Crear una organización llamada **masteruah-tunombredeusuariodegithub**
+ 
+ Desde settings  en el perfil se puede ver un apartado llamado Organizations. Podremos crear una nueva dandole al botón de New Organizations
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/organizaciones.PNG?raw=true"/>
+ 
+ 
