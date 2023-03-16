@@ -140,4 +140,8 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  
  ## Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**, uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
 
+ En la esquina superior derecha de GitHub.com, haga clic en la foto de perfil y luego en Your organizations. Haz clic en el nombre de tu organización.En la parte superior de la página, haga clic en Nuevo equipo
+ 
   <img src="https://github.com/CF72003/masteruah/blob/main/img/grupoadmin.PNG?raw=true"/>
+ 
+ 
