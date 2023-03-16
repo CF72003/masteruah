@@ -125,3 +125,9 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
   <td>https://github.com/CF72003<td/>
   <tr/>
  <table/>
+ 
+ ## Poner a [github.com/i12vecaj](http://github.com/i12vecaj) como colaborador del repositorio **masteruah**
+ 
+ En settings dentro del repositorio nos saldrá el apartado collaborators desde ahí podremos configurarlos.
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/colaborador.PNG?raw=true"/>
