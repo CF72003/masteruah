@@ -138,4 +138,6 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  
  <img src="https://github.com/CF72003/masteruah/blob/main/img/organizaciones.PNG?raw=true"/>
  
- 
+ ## Crear 2 equipos en la organización **masteruah-tunombredeusuariodegithub**, uno llamado **administradores** con más permisos y otro **colaboradores** con menos permisos.
+
+  <img src="[https://github.com/CF72003/masteruah/blob/main/img/organizaciones.PNG?raw=true"](https://github.com/CF72003/masteruah/blob/main/img/grupoadmin.PNG?raw=true)/>
