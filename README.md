@@ -144,4 +144,30 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
  
   <img src="https://github.com/CF72003/masteruah/blob/main/img/grupoadmin.PNG?raw=true"/>
  
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/grupousuarios.PNG?raw=true"/>
+ 
+ ## Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a 2 de vuestros ompañeros de clase en el equipo **administradores**.
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/miembrosadministrators.PNG?raw=true"/>
+ 
+ ## Meter a [github.com/i12vecaj](http://github.com/i12vecaj) y a otros 2 de vuestros compañeros de clase en el equipo **colaboradores**.
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/miembrosusuarios.PNG?raw=true"/>
+ 
+ ## Crear un index.html que se pueda ver como página web en la organización.
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/index.PNG?raw=true"/>
+ 
+ ##  Hacer 2 forks de 2 repositorios **masteruah-tunombredeusuariodegithub.github.io** de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/fork.PNG?raw=true"/>
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/fork2.PNG?raw=true"/>
+ 
+ ##  Con cada rama hacer un pull-request.
+ 
+  <img src="https://github.com/CF72003/masteruah/blob/main/img/pull_request.PNG?raw=true"/>
+ 
+ <img src="https://github.com/CF72003/masteruah/blob/main/img/pull_request2.PNG?raw=true"/>
+ 
  
