@@ -100,3 +100,28 @@ $ git commit -m "Agregado Adios al fichero1.txt en la rama v0.2" - Comentamos lo
 ## Preguntar los nombres de usuario de GitHub de tus compañeros de trabajo en grupo, búscalos, y sigueles.
 
 <img src="https://github.com/CF72003/masteruah/blob/main/img/amigos.PNG?raw=true"/>
+
+##  Añadir una estrella a los repositorios del resto de tus compañeros.
+
+<img src="https://github.com/CF72003/masteruah/blob/main/img/estrella.PNG?raw=true"/>
+
+## Crear una tabla de este estilo en el fichero **README.md** con la información de varios de tus compañeros de clase:
+
+<table>
+ <tr>
+  <td> NOMBRE <td/>
+  <td> GITHUB <td/>
+  <tr/>
+ <tr>
+  <td>Jose David Vela<td/>
+  <td>https://github.com/i12vecaj/ed1<td/>
+  <tr/>
+ <tr>
+  <td> Lin <td/>
+  <td>https://github.com/bingchilling01<td/>
+  <tr/>
+ <tr>
+  <td>Carlos Ferrero<td/>
+  <td>https://github.com/CF72003<td/>
+  <tr/>
+ <table/>
